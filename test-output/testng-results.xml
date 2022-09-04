@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="556" started-at="2022-08-07T17:56:59Z" finished-at="2022-08-07T17:57:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="556" started-at="2022-08-07T17:56:59Z" finished-at="2022-08-07T17:57:00Z">
+      <class name="com.testng.TestNg04">
+        <test-method status="PASS" signature="tc02()[pri:0, instance:com.testng.TestNg04@48aaecc3]" name="tc02" duration-ms="38" started-at="2022-08-07T17:56:59Z" finished-at="2022-08-07T17:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+        <test-method status="PASS" signature="tc03()[pri:0, instance:com.testng.TestNg04@48aaecc3]" name="tc03" duration-ms="0" started-at="2022-08-07T17:56:59Z" finished-at="2022-08-07T17:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03 -->
+        <test-method status="PASS" signature="tc04()[pri:0, instance:com.testng.TestNg04@48aaecc3]" name="tc04" duration-ms="15" started-at="2022-08-07T17:56:59Z" finished-at="2022-08-07T17:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04 -->
+        <test-method status="PASS" signature="tc05()[pri:0, instance:com.testng.TestNg04@48aaecc3]" name="tc05" duration-ms="16" started-at="2022-08-07T17:56:59Z" finished-at="2022-08-07T17:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc05 -->
+        <test-method status="PASS" signature="tc06()[pri:0, instance:com.testng.TestNg04@48aaecc3]" name="tc06" duration-ms="15" started-at="2022-08-07T17:56:59Z" finished-at="2022-08-07T17:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc06 -->
+        <test-method status="PASS" signature="tc07()[pri:0, instance:com.testng.TestNg04@48aaecc3]" name="tc07" duration-ms="47" started-at="2022-08-07T17:57:00Z" finished-at="2022-08-07T17:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc07 -->
+      </class> <!-- com.testng.TestNg04 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
